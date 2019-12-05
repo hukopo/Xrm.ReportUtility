@@ -56,6 +56,10 @@
     <Compile Include="Infrastructure\Transformers\CountSumReportTransformer.cs" />
     <Compile Include="Interfaces\IReportService.cs" />
     <Compile Include="Models\ReportRow.cs" />
+    <Compile Include="ReportPrinter\IReportPrinterBuilder.cs" />
+    <Compile Include="ReportPrinter\ReportPrinter.cs" />
+    <Compile Include="ReportPrinter\ReportPrinterBuilder.cs" />
+    <Compile Include="ReportPrinter\ReportPrinterBuilderDirector.cs" />
     <Compile Include="Services\CsvReportService.cs" />
     <Compile Include="Interfaces\IDataTransformer.cs" />
     <Compile Include="Infrastructure\DataTransformerCreator.cs" />
@@ -74,7 +78,6 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <None Include="Files\table.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
