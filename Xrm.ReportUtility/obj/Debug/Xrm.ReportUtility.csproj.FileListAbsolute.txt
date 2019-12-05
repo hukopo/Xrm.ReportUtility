@@ -1,0 +1,23 @@
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.csv
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.txt
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe.config
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.pdb
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.dll
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.xml
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csprojAssemblyReference.cache
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csproj.CopyComplete
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.exe
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.pdb
+C:\Projects\designPatterns\test\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.csv
+C:\Projects\designPatterns\test\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Files\table.txt
+C:\Projects\designPatterns\test\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe.config
+C:\Projects\designPatterns\test\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.exe
+C:\Projects\designPatterns\test\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\Xrm.ReportUtility.pdb
+C:\Projects\designPatterns\test\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.dll
+C:\Projects\designPatterns\test\Xrm.ReportUtility\Xrm.ReportUtility\bin\Debug\CsvHelper.xml
+C:\Projects\designPatterns\test\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csprojAssemblyReference.cache
+C:\Projects\designPatterns\test\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.csproj.CopyComplete
+C:\Projects\designPatterns\test\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.exe
+C:\Projects\designPatterns\test\Xrm.ReportUtility\Xrm.ReportUtility\obj\Debug\Xrm.ReportUtility.pdb
