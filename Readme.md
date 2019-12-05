@@ -19,6 +19,9 @@
 1 метод GetReportService в Program (до изменений)
 2 метод CreateTransformer в DataTransformerCreator
 
+###### 5 ADAPTER
+реализации класса ReportServiceBase можно назвать адаптерами
+
 ## Реализованные паттерны:
 1 BUILDER  ReportPrinterBuilder
 Зачем?
