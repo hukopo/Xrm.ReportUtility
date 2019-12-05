@@ -11,9 +11,6 @@ namespace Xrm.ReportUtility.Infrastructure.Transformers.Abstract
         {
             DataTransformer = dataTransformer;
         }
-        //todo это TEMPLATE METHOD, где ReportServiceTransformerBase - AbstractClass,
-        //CostSumReportTransformer, CountSumReportTransformer и т.д. - ConcreteClass
-        //А TransformDate - TemplateMethod
         public abstract Report TransformData(DataRow[] data);
     }
 }

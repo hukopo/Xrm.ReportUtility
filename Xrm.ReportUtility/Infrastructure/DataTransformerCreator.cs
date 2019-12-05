@@ -6,15 +6,10 @@ namespace Xrm.ReportUtility.Infrastructure
 {
     public static class DataTransformerCreator
     {
-        // это фабричный метод?
         public static IDataTransformer CreateTransformer(ReportConfig config)
         {
             IDataTransformer service = new DataTransformer(config);
-// это паттерн декоратор, где IDataTransformer - компонент,
-// дата трансформ - конкретная реализация компонента
-// , а WithDataReportTransformer,
-// VolumeSumReportTransformer... - конкретные декораторы,
-// ReportServiceTransformerBase - декоратор 
+
             if (config.WithData)
             {
                 service = new WithDataReportTransformer(service);

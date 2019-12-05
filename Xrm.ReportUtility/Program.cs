@@ -26,15 +26,8 @@ namespace Xrm.ReportUtility
 
         private static IReportService GetReportService(string[] args)
         {
-            var filename = args[0];
-
-            if (filename.EndsWith(".txt")) return new TxtReportService(args);
-
-            if (filename.EndsWith(".csv")) return new CsvReportService(args);
-
-            if (filename.EndsWith(".xlsx")) return new XlsxReportService(args);
-
-            throw new NotSupportedException("this extension not supported");
+            var reportServiceSearcher = new ReportServiceSearcher.ReportServiceSearcher();
+            return reportServiceSearcher.Search(args);
         }
 
         private static void PrintReport(Report report)
