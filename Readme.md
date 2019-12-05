@@ -1,4 +1,4 @@
-##Найденные паттерны:
+## Найденные паттерны:
 ###### 1 TEMPLATE METHOD
 где:
 - ReportServiceTransformerBase - AbstractClass,
@@ -15,7 +15,11 @@
 ###### 3 STRATEGY
 Выбор реализации IReportService можно назвать стратегией (изначально было в Progrem в GetReportService)
 
-##Реализованные паттерны:
+###### 4 FACTORY METHOD
+1 метод GetReportService в Program (до изменений)
+2 метод CreateTransformer в DataTransformerCreator
+
+## Реализованные паттерны:
 1 BUILDER  ReportPrinterBuilder
 Зачем?
 - ссылаюсь на презентацию: "Алгоритм создания сложного объекта не должен зависеть от того, из каких частей
